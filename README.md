@@ -126,6 +126,5 @@ Deployed a **Model-Driven Power Apps solution** for client support and field ser
 
 *"Build things. Break things. Fix them properly."*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=0D1117&style=flat-square&label=profile+views)
 
 </div>
