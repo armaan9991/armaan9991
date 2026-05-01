@@ -16,9 +16,7 @@
 ### Computer Science Student · University of Calgary
 **Backend & Full-Stack · Data Science & ML · Automation**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/armaan-gill-776aa43b4
-
-)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/armaan-gill-776aa43b4)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![Email](https://img.shields.io/badge/gill.armaan%40hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:gill.armaan@hotmail.com)
 [![Calgary](https://img.shields.io/badge/Calgary%2C_AB-FF3B30?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
