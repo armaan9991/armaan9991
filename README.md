@@ -1,6 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--  Armaan Singh Gill — GitHub Profile README                    -->
-<!--  Repo name must match your GitHub username exactly to show up -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -39,28 +38,28 @@ I'm a **Computer Science (Co-op) student at the University of Calgary** focused 
 
 ##  Featured Projects
 
-### [Calgary Property Value Prediction](https://github.com)
+### [Calgary Property Value Prediction]
 > Python · TensorFlow · Keras · Scikit-learn · Pandas
 
 Trained neural network models on **566,000+ municipal property records** to forecast assessed values. Explored underfitting, overfitting, Dropout, and batch training to benchmark regularization techniques.
 
 ---
 
-###  [Recycling Depot Management System](https://github.com)
+###  [Recycling Depot Management System]
 > React · ASP.NET Core · C# · MySQL · Vercel · Render · Railway
 
 Full-stack app with **JWT auth, role-based access, and SQL stored procedures** — deployed end-to-end across three cloud platforms. Currently adding analytics dashboards and inventory forecasting.
 
 ---
 
-###  [Multiplayer Game Platform](https://github.com)
+###  [Multiplayer Game Platform]
 > Java · OOP · Design Patterns
 
 Owned the **room and session management subsystem** — lobby lifecycle, UUID-based identification, randomized host transfer, and status transitions. Wrote integration tests across the full room → session → game loop.
 
 ---
 
-###  [Customer Service App](https://github.com)
+###  [Customer Service App]
 > Power Apps · Power Automate · C# · JavaScript
 
 Deployed a **Model-Driven Power Apps solution** for client support and field service teams. Automated SLA tracking and technician assignment via Power Automate. Extended with C# plugins for custom business logic.
