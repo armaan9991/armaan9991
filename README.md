@@ -31,7 +31,7 @@ I'm a **Computer Science (Co-op) student at the University of Calgary** focused 
 
 -  Currently building a **multiplayer game platform** in Java (room/session subsystem)
 -  Interested in the intersection of **ML, backend systems, and automation**
--  I've shipped production work with **ASP.NET Core, React, Power Apps, and Python ML stacks**
+-  I've worked with **ASP.NET Core, React, Power Apps, and Python ML stacks**
 -  Based in Calgary — open to Co-op roles across Canada
 
 ---
