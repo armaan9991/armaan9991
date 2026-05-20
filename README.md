@@ -18,9 +18,9 @@
 [![Email](https://img.shields.io/badge/gill.armaan%40hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:gill.armaan@hotmail.com)
 [![Calgary, AB](https://img.shields.io/badge/Calgary%2C_AB-FF3B30?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-<img src="https://komarev.com/ghpvc/?username=armaan9991" style="display:none" />
-</div>
 
+</div>
+<img src="https://komarev.com/ghpvc/?username=armaan9991" style="display:none" />
 ---
 
 ##  About me
