@@ -28,51 +28,45 @@
 
 3rd-year CS student at UCalgary building things at the intersection of **full-stack systems**, **machine learning**, and **automation**. I target real-world problems — from ML pipelines trained on 500K+ records to full-stack apps deployed end-to-end across cloud platforms.
 
-- 🔨 Currently building a **home services marketplace** (React, ASP.NET Core, MySQL) and a **B2B CRM with ML vendor scoring** (XGBoost + SHAP)
-- 🛢️ Targeting Calgary's oil & gas tech sector for Co-op
-- 💡 Interested in ML explainability, clean architecture, and systems that scale
-- 📬 Open to Co-op opportunities across Canada
+-  Targeting Calgary's oil & gas tech sector for Co-op
+-  Interested in ML explainability, clean architecture, and systems that scale
+-  Open to Co-op opportunities across Canada
 
 ---
 
 ## Featured Projects
 
-### 🏠 Home Services Marketplace
-> React · ASP.NET Core · MySQL · JWT
+###  Fraud Detection System
+> ASP.NET Core · PostgreSQL · Python · FastAPI · Redis · Hangfire · React · TypeScript
 
-A HomeStars competitor with a **pay-on-hire model** and tamper-proof review system. Fairer pricing for service pros — no pay-to-rank, capped leads per job.
+Full-stack fraud detection platform with a **Python ML service (Random Forest) scoring transactions in real-time at 99% fraud detection accuracy**. Features JWT auth with refresh token rotation, role-based + ownership authorization, and Redis cache-aside for admin stats.
 
----
-
-### 📊 VendorIQ — Oil & Gas CRM
-> Python · XGBoost · SHAP · React · ASP.NET Core
-
-B2B CRM targeting Calgary's O&G sector. Integrated **ML vendor reliability scoring** with SHAP explainability — built for procurement teams who need to know *why* a vendor is flagged, not just that it is.
+Built 3 Hangfire background jobs (daily fraud reports, hourly high-risk user detection, stale token cleanup), real-time **email alerts via SMTP/MailKit**, fixed-window rate limiting on auth/API endpoints, and a global `ApiResponse<T>` middleware with `PagedResult<T>` pagination. Exposes an ML training data endpoint for model retraining pipeline.
 
 ---
 
-### 🏢 Calgary Property Value Prediction
+###  Calgary Property Value Prediction
 > Python · TensorFlow · Keras · Scikit-learn · Pandas
 
 Neural network models trained on **566,000+ municipal property records**. Benchmarked regularization strategies (Dropout, batch training) against underfitting/overfitting baselines.
 
 ---
 
-### ♻️ Recycling Depot Management System
+###  Recycling Depot Management System
 > React · ASP.NET Core · C# · MySQL · Vercel · Render · Railway
 
 Full-stack app with **JWT auth, role-based dashboards, SQL stored procedures**, and analytics. Deployed across three cloud platforms end-to-end.
 
 ---
 
-### 🎮 Multiplayer Game Platform
+###  Multiplayer Game Platform
 > Java · OOP · Design Patterns
 
 Owned the **room and session management subsystem** — lobby lifecycle, UUID-based identification, randomized host transfer, and status transitions across the full room → session → game loop.
 
 ---
 
-### ⚡ Customer Service App
+###  Customer Service App
 > Power Apps · Power Automate · C# · JavaScript
 
 Model-Driven Power Apps solution for field service teams. Automated SLA tracking and technician assignment via Power Automate. Extended with C# plugins for custom business logic.
