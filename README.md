@@ -1,72 +1,85 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--  Armaan Singh Gill — GitHub Profile README                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
 ```
- █████╗ ██████╗ ███╗   ███╗ █████╗  █████╗ ███╗   ██╗
-██╔══██╗██╔══██╗████╗ ████║██╔══██╗██╔══██╗████╗  ██║
-███████║██████╔╝██╔████╔██║███████║███████║██╔██╗ ██║
-██╔══██║██╔══██╗██║╚██╔╝██║██╔══██║██╔══██║██║╚██╗██║
-██║  ██║██║  ██║██║ ╚═╝ ██║██║  ██║██║  ██║██║ ╚████║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+ ▄▄▄       ██▀███   ███▄ ▄███▓ ▄▄▄      ▄▄▄       ███▄    █
+▒████▄    ▓██ ▒ ██▒▓██▒▀█▀ ██▒▒████▄   ▒████▄     ██ ▀█   █
+▒██  ▀█▄  ▓██ ░▄█ ▒▓██    ▓██░▒██  ▀█▄ ▒██  ▀█▄  ▓██  ▀█ ██▒
+░██▄▄▄▄██ ▒██▀▀█▄  ▒██    ▒██ ░██▄▄▄▄██░██▄▄▄▄██ ▓██▒  ▐▌██▒
+ ▓█   ▓██▒░██▓ ▒██▒▒██▒   ░██▒ ▓█   ▓██▒▓█   ▓██▒▒██░   ▓██░
+ ▒▒   ▓▒█░░ ▒▓ ░▒▓░░ ▒░   ░  ░ ▒▒   ▓▒█░▒▒   ▓▒█░░ ▒░   ▒ ▒
+  ▒   ▒▒ ░  ░▒ ░ ▒░░  ░      ░  ▒   ▒▒ ░ ▒   ▒▒ ░░ ░░   ░ ▒░
+  ░   ▒     ░░   ░ ░      ░     ░   ▒    ░   ▒      ░   ░ ░
+      ░  ░   ░            ░         ░  ░     ░  ░         ░
 ```
 
-### Computer Science Student · University of Calgary
-**Backend & Full-Stack · Data Science & ML · Automation**
+**Computer Science (Co-op) · University of Calgary**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/armaan-gill-776aa43b4)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/armaan9991)
 [![Email](https://img.shields.io/badge/gill.armaan%40hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:gill.armaan@hotmail.com)
-[![Calgary](https://img.shields.io/badge/Calgary%2C_AB-FF3B30?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Calgary, AB](https://img.shields.io/badge/Calgary%2C_AB-FF3B30?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
+![Profile views](https://komarev.com/ghpvc/?username=armaan9991&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-##  About Me
+## $ whoami
 
-I'm a **Computer Science (Co-op) student at the University of Calgary** focused on building things that work in the real world — from machine learning pipelines on 566K+ record datasets to full-stack apps deployed across cloud platforms.
+3rd-year CS student at UCalgary building things at the intersection of **full-stack systems**, **machine learning**, and **automation**. I target real-world problems — from ML pipelines trained on 500K+ records to full-stack apps deployed end-to-end across cloud platforms.
 
--  Currently building a **multiplayer game platform** in Java (room/session subsystem)
--  Interested in the intersection of **ML, backend systems, and automation**
--  I've worked with **ASP.NET Core, React, Power Apps, and Python ML stacks**
--  Based in Calgary — open to Co-op roles across Canada
+- 🔨 Currently building a **home services marketplace** (React, ASP.NET Core, MySQL) and a **B2B CRM with ML vendor scoring** (XGBoost + SHAP)
+- 🛢️ Targeting Calgary's oil & gas tech sector for Co-op
+- 💡 Interested in ML explainability, clean architecture, and systems that scale
+- 📬 Open to Co-op opportunities across Canada
 
 ---
 
-##  Featured Projects
+## Featured Projects
 
-### [Calgary Property Value Prediction]
+### 🏠 Home Services Marketplace
+> React · ASP.NET Core · MySQL · JWT
+
+A HomeStars competitor with a **pay-on-hire model** and tamper-proof review system. Fairer pricing for service pros — no pay-to-rank, capped leads per job.
+
+---
+
+### 📊 VendorIQ — Oil & Gas CRM
+> Python · XGBoost · SHAP · React · ASP.NET Core
+
+B2B CRM targeting Calgary's O&G sector. Integrated **ML vendor reliability scoring** with SHAP explainability — built for procurement teams who need to know *why* a vendor is flagged, not just that it is.
+
+---
+
+### 🏢 Calgary Property Value Prediction
 > Python · TensorFlow · Keras · Scikit-learn · Pandas
 
-Trained neural network models on **566,000+ municipal property records** to forecast assessed values. Explored underfitting, overfitting, Dropout, and batch training to benchmark regularization techniques.
+Neural network models trained on **566,000+ municipal property records**. Benchmarked regularization strategies (Dropout, batch training) against underfitting/overfitting baselines.
 
 ---
 
-###  [Recycling Depot Management System]
+### ♻️ Recycling Depot Management System
 > React · ASP.NET Core · C# · MySQL · Vercel · Render · Railway
 
-Full-stack app with **JWT auth, role-based access, and SQL stored procedures** — deployed end-to-end across three cloud platforms. Currently adding analytics dashboards and inventory forecasting.
+Full-stack app with **JWT auth, role-based dashboards, SQL stored procedures**, and analytics. Deployed across three cloud platforms end-to-end.
 
 ---
 
-###  [Multiplayer Game Platform]
+### 🎮 Multiplayer Game Platform
 > Java · OOP · Design Patterns
 
-Owned the **room and session management subsystem** — lobby lifecycle, UUID-based identification, randomized host transfer, and status transitions. Wrote integration tests across the full room → session → game loop.
+Owned the **room and session management subsystem** — lobby lifecycle, UUID-based identification, randomized host transfer, and status transitions across the full room → session → game loop.
 
 ---
 
-###  [Customer Service App]
+### ⚡ Customer Service App
 > Power Apps · Power Automate · C# · JavaScript
 
-Deployed a **Model-Driven Power Apps solution** for client support and field service teams. Automated SLA tracking and technician assignment via Power Automate. Extended with C# plugins for custom business logic.
+Model-Driven Power Apps solution for field service teams. Automated SLA tracking and technician assignment via Power Automate. Extended with C# plugins for custom business logic.
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -85,14 +98,16 @@ Deployed a **Model-Driven Power Apps solution** for client support and field ser
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 **Data Science & ML**
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logo=python&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-FF6F61?style=flat-square&logo=python&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 **Databases**
 
@@ -114,17 +129,19 @@ Deployed a **Model-Driven Power Apps solution** for client support and field ser
 
 ---
 
-##  Currently Learning
+## GitHub Stats
 
-- React Native + TypeScript for mobile development
-- Advanced .NET 8 Web API patterns (clean architecture, SignalR)
-- System design for distributed applications
+<div align="center">
+
+![Armaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=armaan9991&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armaan9991&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
 <div align="center">
 
 *"Build things. Break things. Fix them properly."*
-
 
 </div>
