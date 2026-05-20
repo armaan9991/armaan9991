@@ -20,7 +20,6 @@
 
 
 </div>
-<img src="https://komarev.com/ghpvc/?username=armaan9991" style="display:none" />
 ---
 
 ##  About me
@@ -129,5 +128,6 @@ Model-Driven Power Apps solution for field service teams. Automated SLA tracking
 <div align="center">
 
 *"Build things. Break things. Fix them properly."*
+<img src="https://komarev.com/ghpvc/?username=armaan9991" style="display:none" />
 
 </div>
