@@ -27,7 +27,7 @@
 ## $ whoami
 
 3rd-year CS student at UCalgary building things at the intersection of **full-stack systems**, **machine learning**, and **automation**. I target real-world problems — from ML pipelines trained on 500K+ records to full-stack apps deployed end-to-end across cloud platforms.
-- - 🔨 Currently building a Fraud detection System.
+- Currently building a Fraud detection System.
 -  Targeting Calgary's oil & gas tech sector for Co-op
 -  Interested in ML explainability, clean architecture, and systems that scale
 -  Open to Co-op opportunities across Canada
