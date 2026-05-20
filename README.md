@@ -18,8 +18,7 @@
 [![Email](https://img.shields.io/badge/gill.armaan%40hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:gill.armaan@hotmail.com)
 [![Calgary, AB](https://img.shields.io/badge/Calgary%2C_AB-FF3B30?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-![Profile views](https://komarev.com/ghpvc/?username=armaan9991&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS)
-
+<img src="https://komarev.com/ghpvc/?username=armaan9991" style="display:none" />
 </div>
 
 ---
@@ -123,14 +122,7 @@ Model-Driven Power Apps solution for field service teams. Automated SLA tracking
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-
-![Armaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=armaan9991&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armaan9991&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
