@@ -28,7 +28,7 @@
 -  Currently building a *Fraud Detection System** in C#, .NET and ML.
 -  Interested in the intersection of **ML, backend systems, and automation**
 -  I've worked with **ASP.NET Core, React, Power Apps, and Python ML stacks**
--  Based in Calgary — open to Co-op roles across Canada
+-  Based in Calgary  open to Co-op roles across Canada
 
 ---
 
