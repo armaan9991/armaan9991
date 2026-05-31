@@ -24,7 +24,7 @@
 
 ##  About me
 
-3rd-year CS student at UCalgary building things at the intersection of **full-stack systems**, **machine learning**, and **automation**. I target real-world problems — from ML pipelines trained on 500K+ records to full-stack apps deployed end-to-end across cloud platforms.
+3rd-year CS student at UCalgary building things at the intersection of **full-stack systems**, **machine learning**, and **automation**. I target real-world problems  from ML pipelines trained on 500K+ records to full-stack apps deployed end-to-end across cloud platforms.
 -  Currently building a *Fraud Detection System** in C#, .NET and ML.
 -  Interested in the intersection of **ML, backend systems, and automation**
 -  I've worked with **ASP.NET Core, React, Power Apps, and Python ML stacks**
