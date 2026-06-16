@@ -34,6 +34,9 @@
 ---
 
 ## Featured Projects
+### Oil & Gas Production Forecasting
+> Python · XGBoost · SHAP · Pandas · Scikit-learn · Time Series Forecasting
+- Builting a production forecasting pipeline using historical production data from multiple oil wells containing 24 wellhead and downhole variables.
 
 ###  Fraud Detection System
 > ASP.NET Core · PostgreSQL · Python · FastAPI · Redis · Hangfire · React · TypeScript
