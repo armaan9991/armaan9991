@@ -27,7 +27,7 @@
 3rd-year Computer Science student at the University of Calgary with experience building machine learning systems, full-stack applications, and backend services. I enjoy applying data-driven approaches to real-world problems, from predictive modeling and forecasting to scalable web applications deployed in production environments.
 
 - Recently completed a Fraud Detection System using ASP.NET Core, React, PostgreSQL, Redis, and Machine Learning.
-- Currently building an Oil & Gas Production Forecasting Platform using Decline Curve Analysis (Arps), XGBoost, and SHAP explainability.
+- Currently building an ***Oil & Gas Production Forecasting Platform*** using Decline Curve Analysis (Arps), XGBoost, and SHAP explainability.
 - Interested in machine learning, data analytics, backend systems, and automation.
 - Experienced with ASP.NET Core, React, Python ML stacks, cloud deployment, and database design.
 - Based in Calgary and open to Co-op opportunities across Canada.
