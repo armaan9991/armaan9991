@@ -24,12 +24,13 @@
 
 ##  About me
 
-3rd-year CS student at UCalgary building things at the intersection of **full-stack systems**, **machine learning**, and **automation**. I target real-world problems  from ML pipelines trained on 500K+ records to full-stack apps deployed end-to-end across cloud platforms.
--  Currently building a *Fraud Detection System** in C#, .NET and ML.
--  Interested in the intersection of **ML, backend systems, and automation**
--  I've worked with **ASP.NET Core, React, Power Apps, and Python ML stacks**
--  Based in Calgary  open to Co-op roles across Canada
+3rd-year Computer Science student at the University of Calgary with experience building machine learning systems, full-stack applications, and backend services. I enjoy applying data-driven approaches to real-world problems, from predictive modeling and forecasting to scalable web applications deployed in production environments.
 
+- Recently completed a Fraud Detection System using ASP.NET Core, React, PostgreSQL, Redis, and Machine Learning.
+- Currently building an Oil & Gas Production Forecasting Platform using Decline Curve Analysis (Arps), XGBoost, and SHAP explainability.
+- Interested in machine learning, data analytics, backend systems, and automation.
+- Experienced with ASP.NET Core, React, Python ML stacks, cloud deployment, and database design.
+- Based in Calgary and open to Co-op opportunities across Canada.
 ---
 
 ## Featured Projects
@@ -37,9 +38,13 @@
 ###  Fraud Detection System
 > ASP.NET Core · PostgreSQL · Python · FastAPI · Redis · Hangfire · React · TypeScript
 
-Full-stack fraud detection platform with a **Python ML service (Random Forest) scoring transactions in real-time at 99% fraud detection accuracy**. Features JWT auth with refresh token rotation, role-based + ownership authorization, and Redis cache-aside for admin stats.
+Full-stack fraud detection platform with a Python ML service (Random Forest) scoring transactions in real time at 99% fraud detection accuracy.
 
-Built 3 Hangfire background jobs (daily fraud reports, hourly high-risk user detection, stale token cleanup), real-time **email alerts via SMTP/MailKit**, fixed-window rate limiting on auth/API endpoints, and a global `ApiResponse<T>` middleware with `PagedResult<T>` pagination. Exposes an ML training data endpoint for model retraining pipeline.
+- Implemented JWT authentication with refresh token rotation, role-based and ownership authorization, Redis cache-aside caching, and secure API architecture.
+
+- Built Hangfire background jobs for automated fraud reporting, high-risk user detection, and stale token cleanup. Added real-time email alerts using SMTP/MailKit, rate limiting, centralized error handling middleware, and paginated API responses.
+
+- Designed an ML training data pipeline to support future model retraining and continuous improvement.
 
 ---
 
