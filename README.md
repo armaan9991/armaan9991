@@ -1,141 +1,227 @@
 <div align="center">
 
-```
- ▄▄▄       ██▀███   ███▄ ▄███▓ ▄▄▄      ▄▄▄       ███▄    █
-▒████▄    ▓██ ▒ ██▒▓██▒▀█▀ ██▒▒████▄   ▒████▄     ██ ▀█   █
-▒██  ▀█▄  ▓██ ░▄█ ▒▓██    ▓██░▒██  ▀█▄ ▒██  ▀█▄  ▓██  ▀█ ██▒
-░██▄▄▄▄██ ▒██▀▀█▄  ▒██    ▒██ ░██▄▄▄▄██░██▄▄▄▄██ ▓██▒  ▐▌██▒
- ▓█   ▓██▒░██▓ ▒██▒▒██▒   ░██▒ ▓█   ▓██▒▓█   ▓██▒▒██░   ▓██░
- ▒▒   ▓▒█░░ ▒▓ ░▒▓░░ ▒░   ░  ░ ▒▒   ▓▒█░▒▒   ▓▒█░░ ▒░   ▒ ▒
-  ▒   ▒▒ ░  ░▒ ░ ▒░░  ░      ░  ▒   ▒▒ ░ ▒   ▒▒ ░░ ░░   ░ ▒░
-  ░   ▒     ░░   ░ ░      ░     ░   ▒    ░   ▒      ░   ░ ░
-      ░  ░   ░            ░         ░  ░     ░  ░         ░
-```
+# 👋 Hi, I'm Armaan
 
-**Computer Science (Co-op) · University of Calgary**
+### Computer Science (Co-op) Student @ University of Calgary
+
+Building backend systems, machine learning applications, and data-driven software.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/armaan-gill-776aa43b4)
-[![Email](https://img.shields.io/badge/gill.armaan%40hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:gill.armaan@hotmail.com)
-[![Calgary, AB](https://img.shields.io/badge/Calgary%2C_AB-FF3B30?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:gill.armaan@hotmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://armaangill.dev)
 
 </div>
----
-
-##  About me
-
-3rd-year Computer Science student at the University of Calgary with experience building machine learning systems, full-stack applications, and backend services. I enjoy applying data-driven approaches to real-world problems, from predictive modeling and forecasting to scalable web applications deployed in production environments.
-
-- Recently completed a Fraud Detection System using ASP.NET Core, React, PostgreSQL, Redis, and Machine Learning.
-- Currently building an ***Oil & Gas Production Forecasting Platform*** using Decline Curve Analysis (Arps), XGBoost, and SHAP explainability.
-- Interested in machine learning, data analytics, backend systems, and automation.
-- Experienced with ASP.NET Core, React, Python ML stacks, cloud deployment, and database design.
-- Based in Calgary and open to Co-op opportunities across Canada.
----
-
-## Featured Projects
-### Oil & Gas Production Forecasting
-> Python · XGBoost · SHAP · Pandas · Scikit-learn · Time Series Forecasting
-- Builting a production forecasting pipeline using historical production data from multiple oil wells containing 24 wellhead and downhole variables.
-
-###  Fraud Detection System
-> ASP.NET Core · PostgreSQL · Python · FastAPI · Redis · Hangfire · React · TypeScript
-
-Full-stack fraud detection platform with a Python ML service (Random Forest) scoring transactions in real time at 99% fraud detection accuracy.
-
-- Implemented JWT authentication with refresh token rotation, role-based and ownership authorization, Redis cache-aside caching, and secure API architecture.
-
-- Built Hangfire background jobs for automated fraud reporting, high-risk user detection, and stale token cleanup. Added real-time email alerts using SMTP/MailKit, rate limiting, centralized error handling middleware, and paginated API responses.
-
-- Designed an ML training data pipeline to support future model retraining and continuous improvement.
 
 ---
 
-###  Calgary Property Value Prediction
-> Python · TensorFlow · Keras · Scikit-learn · Pandas
+## About Me
 
-Neural network models trained on **566,000+ municipal property records**. Benchmarked regularization strategies (Dropout, batch training) against underfitting/overfitting baselines.
+I'm a 3rd-year Computer Science (Co-op) student at the University of Calgary interested in building reliable software systems that combine **backend engineering, machine learning, and data analytics**.
 
----
+I enjoy working on projects where software meets real-world problems — from designing APIs and database architectures to building ML pipelines and deploying applications.
 
-###  Recycling Depot Management System
-> React · ASP.NET Core · C# · MySQL · Vercel · Render · Railway
+Currently, I'm focused on:
 
-Full-stack app with **JWT auth, role-based dashboards, SQL stored procedures**, and analytics. Deployed across three cloud platforms end-to-end.
+- Building scalable backend services using **C# and ASP.NET Core**
+- Understanding production-level software architecture and debugging workflows
+- Exploring machine learning applications in areas like forecasting and anomaly detection
+- Learning how modern systems handle performance, reliability, and deployment
 
----
-
-###  Multiplayer Game Platform
-> Java · OOP · Design Patterns
-
-Owned the **room and session management subsystem** — lobby lifecycle, UUID-based identification, randomized host transfer, and status transitions across the full room → session → game loop.
+📍 Based in Calgary, Alberta  
+🎯 Open to Fall 2026 Co-op opportunities
 
 ---
 
-###  Customer Service App
-> Power Apps · Power Automate · C# · JavaScript
+## 🔬 Currently Researching & Building
 
-Model-Driven Power Apps solution for field service teams. Automated SLA tracking and technician assignment via Power Automate. Extended with C# plugins for custom business logic.
+### ⚡ ASP.NET Core Performance Lab
 
----
+A hands-on research project exploring how production APIs are designed and optimized.
 
-## Tech Stack
+Topics I'm currently exploring:
 
-**Languages**
+- API performance benchmarking
+- Middleware pipelines
+- Dependency Injection lifetimes
+- Logging and observability
+- Database performance with Entity Framework Core
+- Caching strategies
+- Async programming patterns
+- Debugging and profiling using Visual Studio
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-**Backend & APIs**
+### 🛢️ Oil & Gas Production Forecasting Platform
 
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+Machine learning research project using historical production data to forecast oil well performance.
 
-**Frontend**
+Exploring:
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-**Data Science & ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=flat-square&logo=python&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-FF6F61?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
-**Cloud & DevOps**
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-**Automation**
-
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white)
-![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=microsoftpowerapps&logoColor=white)
+- Decline Curve Analysis (Arps Models)
+- Time-series forecasting
+- XGBoost regression
+- Feature engineering
+- Model explainability using SHAP
 
 ---
 
+# 🚀 Featured Projects
+
+
+## 🛡️ Fraud Detection System
+
+**ASP.NET Core · React · PostgreSQL · Redis · FastAPI · Machine Learning**
+
+A full-stack fraud detection platform combining a .NET backend with a Python ML service for transaction risk scoring.
+
+Highlights:
+
+- Designed REST APIs using ASP.NET Core and Entity Framework Core
+- Implemented JWT authentication with refresh tokens
+- Added role-based authorization and ownership validation
+- Built Redis caching for frequently accessed data
+- Created background processing using Hangfire
+- Added centralized error handling, rate limiting, and email notifications
+- Designed an ML pipeline for future model retraining
+
+
+---
+
+## 🛢️ Oil Production Forecasting
+
+**Python · XGBoost · Pandas · Scikit-learn · SHAP**
+
+A machine learning pipeline for predicting oil well production using historical field data.
+
+Work includes:
+
+- Data exploration and feature analysis
+- Production trend modeling
+- Time-series validation strategies
+- Comparing traditional decline models with ML approaches
+- Using SHAP for model interpretation
+
+
+---
+
+## 🏠 Calgary Property Value Prediction
+
+**Python · TensorFlow · Keras · Scikit-learn**
+
+Machine learning project predicting property values using municipal property datasets containing 566,000+ records.
+
+Explored:
+
+- Neural networks
+- Feature engineering
+- Data preprocessing
+- Underfitting vs overfitting behavior
+- Regularization techniques such as dropout
+
+
+---
+
+## ♻️ Recycling Depot Management System
+
+**React · ASP.NET Core · C# · MySQL**
+
+Full-stack management application for handling recycling depot operations.
+
+Features:
+
+- JWT authentication
+- Role-based dashboards
+- Database design and SQL procedures
+- REST API development
+- Cloud deployment using Vercel, Render, and Railway
+
+
+---
+
+## 🎮 Multiplayer Game Platform
+
+**Java · OOP · Design Patterns**
+
+Developed a multiplayer game platform focusing on:
+
+- Room lifecycle management
+- Player sessions
+- UUID-based identification
+- Host transfer logic
+- State transitions between lobby and gameplay
+
+
+---
+
+## 🏢 Customer Service Automation App
+
+**Power Apps · Power Automate · C#**
+
+Business application built for field service workflows.
+
+Implemented:
+
+- Automated SLA tracking
+- Technician assignment workflows
+- Custom business logic using C# plugins
+
+
+---
+
+# 🛠️ Tech Stack
+
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+
+### Backend
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) · FastAPI
+
+
+### Frontend
+
+React · React Native · TypeScript
+
+
+### Machine Learning
+
+TensorFlow · Keras · PyTorch · Scikit-learn · XGBoost · SHAP · Pandas
+
+
+### Databases
+
+PostgreSQL · MySQL · SQL Server
+
+
+### Cloud & DevOps
+
+Docker · GitHub Actions · Vercel · Render · Railway
+
+
+### Automation
+
+Power Apps · Power Automate
+
+
+---
+
+## 📚 Currently Learning
+
+- Advanced ASP.NET Core architecture
+- System design fundamentals
+- API scalability and performance optimization
+- Distributed systems concepts
+- Cloud deployment patterns
+- Better debugging and profiling workflows
 
 
 ---
 
 <div align="center">
 
-*"Build things. Break things. Fix them properly."*
+*"Build things. Break things. Understand why they broke. Fix them properly."*
 <img src="https://komarev.com/ghpvc/?username=armaan9991" style="display:none" />
 
 </div>
