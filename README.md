@@ -27,14 +27,14 @@ Currently, I'm focused on:
 - Exploring machine learning applications in areas like forecasting and anomaly detection
 - Learning how modern systems handle performance, reliability, and deployment
 
-📍 Based in Calgary, Alberta  
+📍 Based in Calgary, Alberta.
 🎯 Open to Fall 2026 Co-op opportunities
 
 ---
 
-## 🔬 Currently Researching & Building
+## Currently Researching & Building
 
-### ⚡ ASP.NET Core Performance Lab
+### ASP.NET Core Performance Lab
 
 A hands-on research project exploring how production APIs are designed and optimized.
 
