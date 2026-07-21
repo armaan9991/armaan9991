@@ -137,7 +137,7 @@ Features:
 
 ---
 
-## 🎮 Multiplayer Game Platform
+##  Multiplayer Game Platform
 
 **Java · OOP · Design Patterns**
 
