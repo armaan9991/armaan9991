@@ -22,7 +22,7 @@ I enjoy working on projects where software meets real-world problems — from de
 
 Currently, I'm focused on:
 
-- Building scalable backend services using **C# and ASP.NET Core**
+- Building scalable backend services using **C# and ASP.NET Core**.
 - Understanding production-level software architecture and debugging workflows
 - Exploring machine learning applications in areas like forecasting and anomaly detection
 - Learning how modern systems handle performance, reliability, and deployment
