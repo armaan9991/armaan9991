@@ -28,7 +28,7 @@ Currently, I'm focused on:
 - Learning how modern systems handle performance, reliability, and deployment
 
 📍 Based in Calgary, Alberta.
-🎯 Open to Fall 2026 Co-op opportunities
+🎯 Open to Co-op opportunities
 
 ---
 
