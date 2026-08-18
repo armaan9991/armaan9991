@@ -80,9 +80,7 @@ Highlights:
 - Built Redis caching for frequently accessed data
 - Created background processing using Hangfire
 - Added centralized error handling, rate limiting, and email notifications
-- Designed an ML pipeline for future model retraining
-
-
+- Designed an ML pipeline for future model retraining.
 ---
 
 ## 🛢️ Oil Production Forecasting
