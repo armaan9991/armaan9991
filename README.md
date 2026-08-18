@@ -61,7 +61,6 @@ Exploring:
 - XGBoost regression
 - Feature engineering
 - Model explainability using SHAP
-
 ---
 
 # 🚀 Featured Projects
