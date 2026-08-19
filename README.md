@@ -88,9 +88,7 @@ Highlights:
 **Python · XGBoost · Pandas · Scikit-learn · SHAP**
 
 A machine learning pipeline for predicting oil well production using historical field data.
-
 Work includes:
-
 - Data exploration and feature analysis
 - Production trend modeling
 - Time-series validation strategies
