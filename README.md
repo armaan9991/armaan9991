@@ -18,7 +18,7 @@ Building backend systems, machine learning applications, and data-driven softwar
 
 I'm a 3rd-year Computer Science (Co-op) student at the University of Calgary interested in building reliable software systems that combine **backend engineering, machine learning, and data analytics**.
 
-I enjoy working on projects where software meets real-world problems — from designing APIs and database architectures to building ML pipelines and deploying applications.
+I enjoy working on projects where software meets real-world problems from designing APIs and database architectures to building ML pipelines and deploying applications.
 
 Currently, I'm focused on:
 
